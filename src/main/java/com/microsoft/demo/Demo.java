@@ -10,4 +10,5 @@ public class Demo {
         System.out.println("I am not covered");
     }
     //test-pipeline1
+    //test-pipeline2
 }
